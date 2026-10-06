@@ -1,0 +1,3 @@
+#using os module...
+import os
+os.remove("dlt.txt")

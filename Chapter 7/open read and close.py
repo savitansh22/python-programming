@@ -1,0 +1,6 @@
+#python can be used to perform operations on a file. (read, write data)...
+# open, read and close flie...
+f = open("demo.txt", "r")
+data = f.read()
+print(data)
+f.close()
