@@ -2,7 +2,7 @@ print("hello world, This is Savitansh Topal")
 name= "savitansh" #string
 age= 19 #int
 old= False #boolean
-bank_balance= 0.1 #float
+bank_balance= 100000000000 #float
 a= None #none
 
 
